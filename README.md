@@ -11,4 +11,4 @@ Results
 
 The model was able to achieve high accuracy on the test set:
 
-    Test Accuracy: 93.0%
+    Test Accuracy: 92.0%
